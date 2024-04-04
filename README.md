@@ -14,4 +14,6 @@ exercise one: https://entr451.com/practice-github/
 - bars x 7 
 - crackers
 - coffee
-
+- coffee filters
+- ice cream
+- english muffins
